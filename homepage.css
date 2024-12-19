@@ -1,0 +1,40 @@
+body{
+    background-image: url(./Photos/Kidney\ web\ -\ 2.webp);
+    background-position: center;
+    background-size: cover;
+    background-size: cover;
+}
+.heading_ofpage{
+    color: white;
+    background-color: #312a42;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    font-family: protest revolution;
+}
+.section_header{
+    color: black;
+    margin: 10px;
+}
+.section_para{
+    font-family: poppins;
+    font-size: 20px;
+    margin: 10px;
+    color: whitesmoke;
+}
+#oneof{
+    font-family: protest revolution;
+}  
+/*#twofor{
+    color: antiquewhite;
+}*/
+
+.button_fun{
+    margin-top: 5px;
+    background-color: blue;
+    color: aliceblue;
+    border: 2px black;
+    border-radius: 9px;
+    padding: 10px;
+    font-family: poppins;
+}
